@@ -12,7 +12,7 @@ Tax brackets configuration is expected in the following format:
 - ...
 - Tax rate for tax bracket n
 
-Income Cap is a unsigned integer, Tax Rate is a double ranging from 0 to 1 inclusive.
+Income cap is a unsigned integer, tax rate is a double ranging from 0 to 1 inclusive.
 
 For tax bracket n, only a tax rate is read, the income cap is set to UINT_MAX.
 
