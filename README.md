@@ -9,7 +9,7 @@ Tax brackets configuration is expected in the following format:
 - Number of tax brackets (n)
 - Income cap for tax bracket 1
 - Tax rate for tax bracket 1
-...
+- ...
 - Tax rate for tax bracket n
 
 Income Cap is a unsigned integer, Tax Rate is a double ranging from 0 to 1 inclusive.
