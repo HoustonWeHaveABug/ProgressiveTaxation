@@ -18,7 +18,7 @@ For tax bracket n, only a tax rate is read, the income cap is set to UINT_MAX.
 
 User requests can be of four types:
 
-- 0 <income>: output <overall tax> and <overall tax rate> for given <income>
-- 1 <overall tax>: output <income> and <overall tax rate> for given <overall tax>
-- 2 <overall tax rate>: output <income> and <overall tax> for given <overall tax rate>
+- 0 \<income\>: output <overall tax> and <overall tax rate> for given <income>
+- 1 \<overall tax\>: output <income> and <overall tax rate> for given <overall tax>
+- 2 \<overall tax rate\>: output <income> and <overall tax> for given <overall tax rate>
 - 3: quit the program
